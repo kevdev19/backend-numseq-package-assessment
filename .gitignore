@@ -106,3 +106,4 @@ venv.bak/
 # other
 .vscode
 .DS_Store
+work.py
